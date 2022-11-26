@@ -1,0 +1,6 @@
+web-build
+.expo
+.expo-shared
+.vscode
+assets
+node_modules
